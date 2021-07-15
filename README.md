@@ -6,8 +6,8 @@
 
 A template react app with boilerplate code for rendering a 3D scene to an html canvas using the three.js library.
 
-![an animated example of the deployed app](./assets/img/animated-example.gif)
-![a screenshot of the deployed app](./assets/img/screenshot-1.png)
+![an animated example of the deployed app](./public/assets/img/animated-example.gif)
+![a screenshot of the deployed app](./public/assets/img/screenshot-1.png)
 
 ## Table of Contents:
 
